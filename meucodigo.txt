@@ -1,2 +1,2 @@
-aprendendo git branch
+aprendendo git branch e merge
 aprendendo a fazer uma nova linha 
